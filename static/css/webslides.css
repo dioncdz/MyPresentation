@@ -425,11 +425,11 @@ footer nav {
     footer nav {
       width: 90%; } }
 
-.wrap {
+/* .wrap {
   display: flex;
   align-items: center;
   flex-direction: column;
-}
+} */
 
 .frame,
 .shadow {
